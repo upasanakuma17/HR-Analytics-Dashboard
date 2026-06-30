@@ -1,18 +1,10 @@
-# 📊 HR Analytics Dashboard 
+# 📊 HR Analytics Dashboard
 
-An interactive **HR Analytics Dashboard** developed using **Power BI**, **Power Query**, and **DAX** to analyze employee attrition, workforce demographics, salary distribution, job satisfaction, and education trends.
-
-This dashboard enables HR teams and business stakeholders to monitor workforce KPIs, identify employee attrition patterns, and make data-driven decisions through interactive visualizations and filters.
-
----
+An interactive HR Analytics Dashboard developed using **Power BI**, **Power Query**, and **DAX** to analyze employee attrition, workforce demographics, salary distribution, job satisfaction, and education trends.
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot here after uploading it to the repository.
-
-![Dashboard Preview](Dashboard.png)
-![kpi preview](kpi.png)
-
+![Dashboard Preview](kpi.png)
 
 ---
 
@@ -57,7 +49,7 @@ This dashboard enables HR teams and business stakeholders to monitor workforce K
 
 ---
 
-## 📍 Business Insights
+## 💡 Business Insights
 
 - Overall Attrition Rate: **17.40%**
 - Human Resources department recorded the highest employee attrition.
@@ -67,7 +59,7 @@ This dashboard enables HR teams and business stakeholders to monitor workforce K
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools Used
 
 - Power BI
 - Power Query
@@ -76,13 +68,12 @@ This dashboard enables HR teams and business stakeholders to monitor workforce K
 
 ---
 
-## 💡 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
 - Data Modeling
-- DAX Measures
-- KPI Development
+- DAX
 - Dashboard Design
 - Data Visualization
 - Business Intelligence
@@ -90,27 +81,8 @@ This dashboard enables HR teams and business stakeholders to monitor workforce K
 
 ---
 
-## 📂 Repository Contents
-
-```
-HR-Analytics-Dashboard/
-│
-├── HR Analytics Dashboard.pbix
-├── HR_Analytics_Dataset.xlsx
-├── Dashboard.png
-├── kpi.png
-└── README.md
-```
-
----
-
 ## 👩‍💻 Author
 
 **Upasana Kumari Mishra**
 
-- GitHub: https://github.com/upasanakuma17
-- LinkedIn: *https://www.linkedin.com/in/upasanakmishra/*
-
----
-
-⭐ If you found this project useful, consider giving it a star!
+⭐ If you found this project useful, please consider giving it a Star.
