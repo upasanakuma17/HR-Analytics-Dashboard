@@ -1,0 +1,116 @@
+# 📊 HR Analytics Dashboard
+
+An interactive **HR Analytics Dashboard** developed using **Power BI**, **Power Query**, and **DAX** to analyze employee attrition, workforce demographics, salary distribution, job satisfaction, and education trends.
+
+This dashboard enables HR teams and business stakeholders to monitor workforce KPIs, identify employee attrition patterns, and make data-driven decisions through interactive visualizations and filters.
+
+---
+
+## 📸 Dashboard Preview
+
+> Add your dashboard screenshot here after uploading it to the repository.
+
+![Dashboard Preview](Dashboard.png)
+![kpi preview](kpi.png)
+
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze employee attrition across departments.
+- Monitor workforce demographics.
+- Compare average salary by department.
+- Evaluate job satisfaction levels.
+- Analyze employee attrition based on education.
+- Provide interactive filtering for HR decision-making.
+
+---
+
+## 📌 Key KPIs
+
+- 👥 Total Employees
+- 🚪 Attrition Count
+- 📉 Attrition Rate
+- 💰 Average Salary
+- 🎂 Average Age
+
+---
+
+## 📊 Dashboard Visualizations
+
+- Attrition by Department
+- Attrition by Gender
+- Attrition by Age Group
+- Average Salary by Department
+- Employee Distribution by Job Satisfaction
+- Employee Attrition by Education
+
+---
+
+## 🎛 Interactive Filters
+
+- Department
+- Gender
+- Education
+- Job Role
+
+---
+
+## 📍 Business Insights
+
+- Overall Attrition Rate: **17.40%**
+- Human Resources department recorded the highest employee attrition.
+- Young employees showed relatively higher attrition.
+- Average employee salary is approximately **₹102K**.
+- Employees with a Bachelor's degree showed the highest attrition.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Interactive Reporting
+
+---
+
+## 📂 Repository Contents
+
+```
+HR-Analytics-Dashboard/
+│
+├── HR Analytics Dashboard.pbix
+├── HR_Analytics_Dataset.xlsx
+├── Dashboard.png
+├── kpi.png
+└── README.md
+```
+
+---
+
+## 👩‍💻 Author
+
+**Upasana Kumari Mishra**
+
+- GitHub: https://github.com/upasanakuma17
+- LinkedIn: *https://www.linkedin.com/in/upasanakmishra/*
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
