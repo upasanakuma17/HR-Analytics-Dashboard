@@ -3,7 +3,7 @@
 An interactive HR Analytics Dashboard developed using **Power BI**, **Power Query**, and **DAX** to analyze employee attrition, workforce demographics, salary distribution, job satisfaction, and education trends.
 
 ## 📸 Dashboard Preview
-
+![Dashboard Preview](Dashboard.png)
 ![Dashboard Preview](kpi.png)
 
 ---
